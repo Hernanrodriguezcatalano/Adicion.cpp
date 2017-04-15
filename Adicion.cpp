@@ -5,7 +5,9 @@
 #include "iostream"
 
 /*
-Escribir los pasos para mostrar la suma de dos números que ingresa el usuario.Hernan Rodriguez
+Escribir los pasos para mostrar la suma de dos nÃºmeros que ingresa el usuario.
+
+Hernan Rodriguez
 15/4/2017
 1505397
 */
